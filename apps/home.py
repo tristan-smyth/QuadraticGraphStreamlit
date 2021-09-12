@@ -16,6 +16,6 @@ def app():
     
     I hope you enjoy.
     
-    Made By Tristan Smyth
+    Made By tt1429
     
     """)
