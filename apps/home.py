@@ -13,9 +13,6 @@ def app():
     - Dowload all the (x,y) positions into a text file
     - Dowloand a html copy of the plot
     - Interactive plot in app and when dowloaded
-    
-    I hope you enjoy.
-    
-    Made By tt1429
+   
     
     """)
